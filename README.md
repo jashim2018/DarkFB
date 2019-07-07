@@ -13,7 +13,7 @@
 <ul>
 <li>Jikan ingin menambahkan list password edit dengan command:<br />
 <code>nano password.bin</code></li>
-<li>Jika merasa ada log ya bypass saja lasungsung pakai tokenmu dengan command:<br />
+<li>Jika merasa ada log ya bypass saja langsung pakai tokenmu dengan command:<br />
 <code>echo "TOKENMU" > login.txt</code></li>
 </ul>
 <br />
