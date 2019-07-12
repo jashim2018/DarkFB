@@ -17,4 +17,4 @@
 <code>echo "TOKENMU" > login.txt</code></li>
 </ul>
 <br />
-<img src="https://github.com/JeelsBoobz/DarkFB/raw/master/Screenshot_2019-07-05-13-51-45-078_com.termux.png" />
+<-img src="https://github.com/JeelsBoobz/DarkFB/raw/master/Screenshot_2019-07-05-13-51-45-078_com.termux.png" />
