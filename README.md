@@ -1,7 +1,7 @@
 # DarkFB Termux v3.0.0
 
 <ul>
-<li><code>pkg install git python2 coreutils nano</code></li>
+<li><code>pkg install git python2 coreutils nano curl</code></li>
 <li><code>pip2 install --upgrade pip</code></li>
 <li><code>git clone https://github.com/JeelsBoobz/DarkFB</code></li>
 <li><code>cd DarkFB</code></li>
